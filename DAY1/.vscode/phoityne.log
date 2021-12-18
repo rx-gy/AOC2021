@@ -1,0 +1,4 @@
+2021-12-06 10:14:30.727489000000 [65762(ThreadId 21)] ERROR APP - user error (<getModule> loaded module can not find from path. </Users/jack/dev/local/AOC2021/DAY1/app/Main.hs> [])
+2021-12-06 10:14:30.740768000000 [65762(ThreadId 21)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2021-12-06 10:16:21.077019000000 [65893(ThreadId 21)] ERROR APP - user error (<getModule> loaded module can not find from path. </Users/jack/dev/local/AOC2021/DAY1/app/Main.hs> [])
+2021-12-06 10:16:21.118673000000 [65893(ThreadId 21)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
